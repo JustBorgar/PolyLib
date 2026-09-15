@@ -5,7 +5,7 @@ Collection of royalty free uploaded assets for Polytoria.
 > Don't wanna scroll through the entire list? Use your browser's search function (usually `Ctrl+F`) to quickly filter by artist/genre.
 
 > [!Important]
-> If an upload's description states attribution is needed, it's not a suggestion, you must do so to comply with the license, preferably somewhere easly visible in-game either under a credits menu, or as a "currently playing" card on screen.
+> If an upload's description states attribution is needed, it's not a suggestion, you must do so to comply with the license, preferably somewhere easly visible in-game (such as under a credits menu, or as a "currently playing" card on screen).
 
 # Why?
 
