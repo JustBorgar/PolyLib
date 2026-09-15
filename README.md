@@ -4,6 +4,9 @@ Collection of royalty free uploaded assets for Polytoria.
 > [!Tip]
 > Don't wanna scroll through the entire list? Use your browser's search function (usually `Ctrl+F`) to quickly filter by artist/genre.
 
+> [!Note]
+> If an upload's description states attribution is needed, it's not a suggestion, you must do so to comply with the license, preferably in-game either under a credits menu, or as a "currently playing" card on screen.
+
 # Sounds
 
 ## Music
@@ -14,12 +17,13 @@ Collection of royalty free uploaded assets for Polytoria.
 
 Couldn't find an asset you like? Here's some websites you can use to find assets and upload them yourself (please consider marking them as not private and submitting them if you believe others could benefit from them).
 
-| Website | Type | Description |
-|-|-|-|
-| [FreeSound](https://freesound.org/) | Audio | Most reliable source for game audio. |
-| [itch.io](https://itch.io/game-assets) | All | Has a little bit of everything. |
-| [OpenGameArt](https://opengameart.org/) | All | Same as above. |
-
+| Website | Type | Description | License |
+|-|-|-|-|
+| [FreeSound](https://freesound.org/) | Audio | Most reliable source for game audio. | Multiple |
+| [itch.io](https://itch.io/game-assets) | Multiple | Has a little bit of everything. | Multiple |
+| [OpenGameArt](https://opengameart.org/) | Multiple | Same as above. | Multiple |
+| [Listen, copyleft, onward](https://www.listencopyleftonward.com/) | Music | Pasi Sivula's website, has some pretty iconic tracks. | CC-BY-SA 4.0 |
+| [Incompetech](https://incompetech.com/) | Music | Kevin MacLeod's website, likely has pretty much all the royalty free tracks you can think of. | CC-BY 4.0 |
 
 # Guidelines
 
