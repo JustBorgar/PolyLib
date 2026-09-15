@@ -22,7 +22,11 @@ But here's the thing:
 
 ## Music
 
-
+| Track | Artist | ID | License | Genres | Album |
+|-|-|-|-|-|-|
+| [KARTS!](https://somewhatgood.bandcamp.com/track/karts) | [flowerhead](https://somewhatgood.bandcamp.com/) | [230820](https://polytoria.com/store/230820) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy | Karts |
+| [Flowey Speedway](https://somewhatgood.bandcamp.com/track/flowey-speedway) | [flowerhead](https://somewhatgood.bandcamp.com/) | [230813](https://polytoria.com/store/230813) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy | Karts |
+| [Stadium 64](https://somewhatgood.bandcamp.com/track/stadium-64) | [flowerhead](https://somewhatgood.bandcamp.com/) | [230812](https://polytoria.com/store/230812) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy | Karts |
 
 ## Sound Effects
 
