@@ -62,7 +62,7 @@ Couldn't find an asset you like? Here's some websites you can use to find assets
 
 # Guidelines
 
-Wanna contribute ? Feel free to reach out to me on the devhub, below are the guidelines.
+Wanna contribute? Feel free to reach out to me on the devhub, below are the guidelines.
 
 * Submitted uploads must be marked as public so others can access them.
 * A minimum of 5 uploads is required to become a contributor to avoid spam.
