@@ -22,11 +22,19 @@ But here's the thing:
 
 ## Music
 
-| Track | Artist | ID | License | Genres | Album |
+| Track | Artist | Album | ID | License | Genres |
 |-|-|-|-|-|-|
-| [KARTS!](https://somewhatgood.bandcamp.com/track/karts) | [flowerhead](https://somewhatgood.bandcamp.com/) | [230820](https://polytoria.com/store/230820) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy | Karts |
-| [Flowey Speedway](https://somewhatgood.bandcamp.com/track/flowey-speedway) | [flowerhead](https://somewhatgood.bandcamp.com/) | [230813](https://polytoria.com/store/230813) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy | Karts |
-| [Stadium 64](https://somewhatgood.bandcamp.com/track/stadium-64) | [flowerhead](https://somewhatgood.bandcamp.com/) | [230812](https://polytoria.com/store/230812) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy | Karts |
+| [KARTS!](https://somewhatgood.bandcamp.com/track/karts) | [flowerhead](https://somewhatgood.bandcamp.com/) | [Karts](https://somewhatgood.bandcamp.com/album/somewhatgood-karts) | [230820](https://polytoria.com/store/230820) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy |
+| [Flowey Speedway](https://somewhatgood.bandcamp.com/track/flowey-speedway) | flowerhead | Karts | [230813](https://polytoria.com/store/230813) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy |
+| [Stadium 64](https://somewhatgood.bandcamp.com/track/stadium-64) | flowerhead | Karts | [230812](https://polytoria.com/store/230812) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy |
+| [Bouncing Pyramids](https://somewhatgood.bandcamp.com/track/bouncing-pyramids) | flowerhead | Karts | [230810](https://polytoria.com/store/230810) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy |
+| [Rainbow Way](https://somewhatgood.bandcamp.com/track/rainbow-way) | flowerhead | Karts | [230806](https://polytoria.com/store/230806) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy |
+
+<!--
+Templates:
+| [TITLE](URL) | [ARTIST](URL) | [ALBUM](URL) | [ID](URL) | [LICENSE](URL) | GENRE1, GENRE2... |)
+| [TITLE](URL) | ARTIST | ALBUM | [ID](URL) | [LICENSE](URL) | GENRE1, GENRE2... |)
+-->
 
 ## Sound Effects
 
