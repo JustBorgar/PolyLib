@@ -7,9 +7,22 @@ Collection of royalty free uploaded assets for Polytoria.
 > [!Note]
 > If an upload's description states attribution is needed, it's not a suggestion, you must do so to comply with the license, preferably in-game either under a credits menu, or as a "currently playing" card on screen.
 
+# Why?
+
+Because it's the right way to do things.
+
+> Bigger UGC platforms gave devs the misconception of it being okay to just borrow whatever content they liked under pretexts such as "it's a small game, no one will notice".
+
+But here's the thing:
+* In the unlikely case they do notice, you may very much be in trouble, and so may the platform and our ability to freely upload sounds if stealing copyrighted work becomes the norm.
+* In the case of small artists, you're hurting them by using their work without permission.
+* And lastly, most of the time it's trivial to look for a royalty free track, and it'll make your game stand out more than if you borrowed one from a popular work.
+
 # Sounds
 
 ## Music
+
+
 
 ## Sound Effects
 
