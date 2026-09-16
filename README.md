@@ -25,18 +25,21 @@ Bigger UGC platforms gave devs the misconception of it being okay to just borrow
 
 | Track | Artist | Album | ID | License | Genres |
 |-|-|-|-|-|-|
-| [KARTS!](https://somewhatgood.bandcamp.com/track/karts) | [flowerhead](https://somewhatgood.bandcamp.com/) | [Karts](https://somewhatgood.bandcamp.com/album/somewhatgood-karts) | [230820](https://polytoria.com/store/230820) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy |
-| [Flowey Speedway](https://somewhatgood.bandcamp.com/track/flowey-speedway) | flowerhead | Karts | [230813](https://polytoria.com/store/230813) | CC-BY 4.0 | Electronic, Happy |
-| [Stadium 64](https://somewhatgood.bandcamp.com/track/stadium-64) | flowerhead | Karts | [230812](https://polytoria.com/store/230812) | CC-BY 4.0 | Electronic, Happy |
-| [Bouncing Pyramids](https://somewhatgood.bandcamp.com/track/bouncing-pyramids) | flowerhead | Karts | [230810](https://polytoria.com/store/230810) | CC-BY 4.0 | Electronic, Happy |
-| [Rainbow Way](https://somewhatgood.bandcamp.com/track/rainbow-way) | flowerhead | Karts | [230806](https://polytoria.com/store/230806) | CC-BY 4.0 | Electronic, Happy |
-| [ZeroTag](https://somewhatgood.bandcamp.com/track/zerotag) | flowerhead | [Bargain Bin](https://somewhatgood.bandcamp.com/album/somewhatgood-bargain-bin) | [201762](https://polytoria.com/store/201762) | CC-BY 4.0 | Electronic |
-| [Exworminator](https://somewhatgood.bandcamp.com/track/exworminator) | flowerhead | Bargain Bin | [200574](https://polytoria.com/store/200574) | CC-BY 4.0 | Electronic |
-| [Casio Droplets](https://somewhatgood.bandcamp.com/track/casio-droplets) | flowerhead | Bargain Bin | [200246](https://polytoria.com/store/200246) | CC-BY 4.0 | Electronic |
-| [Are You Still The Same Cube?](https://somewhatgood.bandcamp.com/track/are-you-still-the-same-cube) | flowerhead | Bargain Bin | [200231](https://polytoria.com/store/200231) | CC-BY 4.0 | Electronic |
+| [KARTS!](https://somewhatgood.bandcamp.com/track/karts) | [flowerhead](https://somewhatgood.bandcamp.com/) | [Karts](https://somewhatgood.bandcamp.com/album/somewhatgood-karts) | [230820](https://polytoria.com/store/230820) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) | Electronic, Happy |
+| [Flowey Speedway](https://somewhatgood.bandcamp.com/track/flowey-speedway) | flowerhead | Karts | [230813](https://polytoria.com/store/230813) | CC BY 4.0 | Electronic, Happy |
+| [Stadium 64](https://somewhatgood.bandcamp.com/track/stadium-64) | flowerhead | Karts | [230812](https://polytoria.com/store/230812) | CC BY 4.0 | Electronic, Happy |
+| [Bouncing Pyramids](https://somewhatgood.bandcamp.com/track/bouncing-pyramids) | flowerhead | Karts | [230810](https://polytoria.com/store/230810) | CC BY 4.0 | Electronic, Happy |
+| [Rainbow Way](https://somewhatgood.bandcamp.com/track/rainbow-way) | flowerhead | Karts | [230806](https://polytoria.com/store/230806) | CC BY 4.0 | Electronic, Happy |
+| [ZeroTag](https://somewhatgood.bandcamp.com/track/zerotag) | flowerhead | [Bargain Bin](https://somewhatgood.bandcamp.com/album/somewhatgood-bargain-bin) | [201762](https://polytoria.com/store/201762) | CC BY 4.0 | Electronic |
+| [Exworminator](https://somewhatgood.bandcamp.com/track/exworminator) | flowerhead | Bargain Bin | [200574](https://polytoria.com/store/200574) | CC BY 4.0 | Electronic |
+| [Casio Droplets](https://somewhatgood.bandcamp.com/track/casio-droplets) | flowerhead | Bargain Bin | [200246](https://polytoria.com/store/200246) | CC BY 4.0 | Electronic |
+| [Are You Still The Same Cube?](https://somewhatgood.bandcamp.com/track/are-you-still-the-same-cube) | flowerhead | Bargain Bin | [200231](https://polytoria.com/store/200231) | CC BY 4.0 | Electronic |
+| [Seahorse Dreams](https://kubbi.bandcamp.com/track/seahorse-dreams) | [Kubbi](https://kubbi.bandcamp.com/) | [Gas Powered EP](https://kubbi.bandcamp.com/album/gas-powered-ep) | [243651](https://polytoria.com/store/243651) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Electronic, Chiptune, Rock, Progressive |
+| [Up In My Jam (All Of A Sudden)](https://kubbi.bandcamp.com/track/up-in-my-jam-all-of-a-sudden) | Kubbi | Gas Powered EP | [243652](https://polytoria.com/store/243652) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Progressive |
+| [The See-Through Zone](https://kubbi.bandcamp.com/track/the-see-through-zone-3) | Kubbi | Gas Powered EP | [243653](https://polytoria.com/store/243653) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Progressive |
 
 > [!Note]
-> Looks empty? Give me a little bit of time, i'm just getting started (if you wanna help expand this collection faster, consider contributing).
+> Too short? Give me a little bit of time, i'm just getting started (if you wanna help expand this collection faster, consider contributing).
 
 <!--
 Templates:
