@@ -37,6 +37,10 @@ Bigger UGC platforms gave devs the misconception of it being okay to just borrow
 | [Seahorse Dreams](https://kubbi.bandcamp.com/track/seahorse-dreams) | [Kubbi](https://kubbi.bandcamp.com/) | [Gas Powered EP](https://kubbi.bandcamp.com/album/gas-powered-ep) | [243651](https://polytoria.com/store/243651) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Electronic, Chiptune, Rock, Progressive |
 | [Up In My Jam (All Of A Sudden)](https://kubbi.bandcamp.com/track/up-in-my-jam-all-of-a-sudden) | Kubbi | Gas Powered EP | [243652](https://polytoria.com/store/243652) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Progressive |
 | [The See-Through Zone](https://kubbi.bandcamp.com/track/the-see-through-zone-3) | Kubbi | Gas Powered EP | [243653](https://polytoria.com/store/243653) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Progressive |
+| [Cascade](https://kubbi.bandcamp.com/track/cascade) | Kubbi | [Ember](https://kubbi.bandcamp.com/album/ember) | [243664](https://polytoria.com/store/243664) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
+| [Firelight](https://kubbi.bandcamp.com/track/firelight) | Kubbi | Ember | [243665](https://polytoria.com/store/243665) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
+| [Ember](https://kubbi.bandcamp.com/track/ember) | Kubbi | Ember | [243666](https://polytoria.com/store/243666) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
+| [Overworld](https://kubbi.bandcamp.com/track/overworld) | Kubbi | Ember | [243667](https://polytoria.com/store/243667) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
 
 > [!Note]
 > Too short? Give me a little bit of time, i'm just getting started (if you wanna help expand this collection faster, consider contributing).
