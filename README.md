@@ -41,6 +41,7 @@ Bigger UGC platforms gave devs the misconception of it being okay to just borrow
 | [Firelight](https://kubbi.bandcamp.com/track/firelight) | Kubbi | Ember | [243665](https://polytoria.com/store/243665) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
 | [Ember](https://kubbi.bandcamp.com/track/ember) | Kubbi | Ember | [243666](https://polytoria.com/store/243666) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
 | [Overworld](https://kubbi.bandcamp.com/track/overworld) | Kubbi | Ember | [243667](https://polytoria.com/store/243667) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
+| [Restoration](https://kubbi.bandcamp.com/track/restoration) | Kubbi | Ember | [244299](https://polytoria.com/store/244299) | CC BY-SA 4.0 | Electronic, Chiptune, Rock, Adventure |
 
 > [!Note]
 > Too short? Give me a little bit of time, i'm just getting started (if you wanna help expand this collection faster, consider contributing).
