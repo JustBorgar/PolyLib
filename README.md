@@ -81,7 +81,7 @@ Couldn't find an asset you like? Here's some websites you can use to find assets
 Open source vector icons by microsoft.
 
 > [!Note]
-> Icon names were adjusted to be more intuitive and/or to comply with polytoria's terms of service.
+> Icon names were adjusted to be more intuitive and/or to comply with polytoria's terms of service, all uploads are recolorable even if previews seem to indicate they are not.
 
 | Preview | Name | ID |
 |-|-|-|
