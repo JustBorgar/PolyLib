@@ -21,8 +21,8 @@ Bigger UGC platforms gave devs the misconception of it being okay to just borrow
 > compliance difficult. All assets here are free to use in principle, but you should verify each license's terms on your own
 > before using them.
 >
-> For audio assets, I recommend you display a "credit card" during playback. For others, include attribution similar to the one present
-> on each asset's description. This is not legal advice.
+> For music, I recommend you display a card with the artist and track's name during playback. For others, you can include attribution similar
+> to the one present on each asset's description on a menu. This is not legal advice.
 
 # Sounds
 
