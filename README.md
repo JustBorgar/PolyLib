@@ -93,13 +93,16 @@ Open source vector icons by microsoft.
 | <img src="URL" width="48" height="48"> | More_Vertical | [249205](https://polytoria.com/store/249205) |
 | <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/cart_24_filled.svg" width="48" height="48"> | Cart | [249195](https://polytoria.com/store/249195) |
 | <img src="URL" width="48" height="48"> | Accessibility | [249196](https://polytoria.com/store/249196) |
+| <img src="URL" width="48" height="48"> | Translate | [249206](https://polytoria.com/store/249206) |
 | <img src="URL" width="48" height="48"> | Settings | [249197](https://polytoria.com/store/249197) |
 | <img src="URL" width="48" height="48"> | Save | [249198](https://polytoria.com/store/249198) |
 | <img src="URL" width="48" height="48"> | Play | [249200](https://polytoria.com/store/249200) |
 | <img src="URL" width="48" height="48"> | Pause | [249199](https://polytoria.com/store/249199) |
 | <img src="URL" width="48" height="48"> | Previous | [249202](https://polytoria.com/store/249202) |
 | <img src="URL" width="48" height="48"> | Next | [249201](https://polytoria.com/store/249201) |
-
+| <img src="URL" width="48" height="48"> | Keyboard | [249208](https://polytoria.com/store/249208) |
+| <img src="URL" width="48" height="48"> | Tap | [249209](https://polytoria.com/store/249209) |
+| <img src="URL" width="48" height="48"> | Joystick | [249210](https://polytoria.com/store/249210) |
 
 <!--
 Template:
