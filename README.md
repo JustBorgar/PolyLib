@@ -1,5 +1,5 @@
 # PolyLib
-Collection of royalty free uploaded assets for Polytoria.
+Collection of royalty free pre-uploaded assets for Polytoria.
 
 > [!Tip]
 > Don't wanna scroll through the entire list? Use your browser's search function (usually `Ctrl+F`) to quickly filter by artist/genre.
@@ -16,8 +16,13 @@ Bigger UGC platforms gave devs the misconception of it being okay to just borrow
 * In the case of small artists, you're likely hurting them by using their work without permission.
 * And lastly, most of the time it's trivial to look for a royalty free track, and it'll make your game stand out more than if you borrowed one from a popular work.
 
-> [!Tip]
-> Confused by a license's terms? Attached to each license is a link with an easy to read resume of it's terms, most of the time complying is as simple as giving the artist credit for their work.
+> [!Warning]
+> UGC platforms often don't allow external links to licenses, nor provide accessible ways to fully display their content, making full
+> compliance difficult. All assets here are free to use in principle, but you should verify each license's terms on your own
+> before using them.
+>
+> For audio assets, I recommend you display a "credit card" during playback. For others, include attribution similar to the one present
+> on each asset's description. This is not legal advice.
 
 # Sounds
 
@@ -67,6 +72,32 @@ Couldn't find an asset you like? Here's some websites you can use to find assets
 | [OpenGameArt](https://opengameart.org/) | Multiple | Same as above. | Multiple |
 | [Listen, copyleft, onward](https://www.listencopyleftonward.com/) | Music | Pasi Sivula's website, has some pretty iconic tracks. | CC-BY-SA 4.0 |
 | [Incompetech](https://incompetech.com/) | Music | Kevin MacLeod's website, likely has pretty much all the royalty free tracks you can think of. | CC-BY 4.0 |
+
+# Images
+
+## Fluent Icons
+
+Open source vector icons by microsoft.
+
+> [!Note]
+> Icon names were adjusted to be more intuitive and/or to comply with polytoria's terms of service.
+
+| Preview | Name | ID |
+|-|-|-|
+| <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/speaker_2_48_filled.svg" width="48" height="48"> | Speaker_Full | [249191](https://polytoria.com/store/249191)
+| <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/speaker_1_48_filled.svg" width="48" height="48"> | Speaker_Low | [249193](https://polytoria.com/create/asset/249193) |
+| <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/speaker_mute_48_filled.svg" width="48" height="48"> | Speaker_Muted | [249192](https://polytoria.com/store/249192) |
+
+<!--
+Template:
+| <img src="URL" width="48" height="48"> | NAME | [ID](URL) |
+-->
+
+> [!Tip]
+> Missing an icon? You can browse the entire library [here](https://fluenticons.co/).
+
+Fluent Icons © 2020 by Microsoft Corporation is licensed under the 'MIT LICENSE'. To view a copy of this license, visit:
+https://opensource.org/license/MIT
 
 # Guidelines
 
