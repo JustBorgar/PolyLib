@@ -88,6 +88,15 @@ Open source vector icons by microsoft.
 | <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/speaker_2_48_filled.svg" width="48" height="48"> | Speaker_Full | [249191](https://polytoria.com/store/249191)
 | <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/speaker_1_48_filled.svg" width="48" height="48"> | Speaker_Low | [249193](https://polytoria.com/create/asset/249193) |
 | <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/speaker_mute_48_filled.svg" width="48" height="48"> | Speaker_Muted | [249192](https://polytoria.com/store/249192) |
+| <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/navigation_48_filled.svg" width="48" height="48"> | Navigation | [249194](https://polytoria.com/store/249194) |
+| <img src="https://cdn.jsdelivr.net/npm/@fluentui/svg-icons@1.1.341/icons/cart_24_filled.svg" width="48" height="48"> | Cart | [249195](https://polytoria.com/store/249195) |
+| <img src="URL" width="48" height="48"> | Accessibility | [249196](https://polytoria.com/store/249196) |
+| <img src="URL" width="48" height="48"> | Settings | [249197](https://polytoria.com/store/249197) |
+| <img src="URL" width="48" height="48"> | Save | [249198](https://polytoria.com/store/249198) |
+| <img src="URL" width="48" height="48"> | Play | [249200](https://polytoria.com/store/249200) |
+| <img src="URL" width="48" height="48"> | Pause | [249199](https://polytoria.com/store/249199) |
+| <img src="URL" width="48" height="48"> | Previous | [249202](https://polytoria.com/store/249202) |
+| <img src="URL" width="48" height="48"> | Next | [249201](https://polytoria.com/store/249201) |
 
 <!--
 Template:
