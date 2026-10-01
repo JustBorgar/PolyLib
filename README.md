@@ -123,6 +123,6 @@ Wanna contribute your own uploads? Feel free to reach out to me on the devhub, b
 * Only the types of assets already listed in the library will be accepted at the time.
 * Uploads must be properly named, and must disclose their license on the description.
   * Tracks should be named as follows "[Artist] - [Track]" (eg. "Kubbi - Ember"), this helps keep the library consistent and ensures artists are easy for devs to attribute.
-  * Descriptions should look something as follows "Distributed by [AUTHOR] as part of [SOURCE] under [LICENSE], all rights reserved to them.
+  * Descriptions should look something as follows: "Distributed by [AUTHOR] as part of [SOURCE] under [LICENSE], all rights reserved to them".
 * If the platform ever gets a proper way to attach licenses to assets, you are required to attach it to all of your uploads.
 * Uploads must be human authored, content generated largely by AI will be rejected, it's artist blacklisted from future submissions and their previous uploads removed.
