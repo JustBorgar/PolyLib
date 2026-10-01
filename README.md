@@ -118,7 +118,7 @@ Wanna contribute? Feel free to reach out to me on the devhub, below are the guid
 
 * Submitted uploads must be marked as public so others can access them.
 * A minimum of 5 uploads is required to become a contributor to avoid spam.
-* At the moment only music will be accepted due to poly's lack of wav/ogg support to avoid long term compression artifacts, hope is to support a wider set of assets as time goes on.
+* At the moment only icons and music will be accepted due to poly's lack of wav/ogg support to avoid long term compression artifacts, hope is to support a wider set of assets as time goes on.
 * Tracks should be named as follows "[Artist] - [Track]" (eg. "Kubbi - Ember"), this helps keep the library consistent and ensures artists are easy for devs to attribute.
 * Proper metadata for uploads must be provided, and submissions must properly disclose the license of each track on it's description.
 * Uploads must be human authored, content generated largely by AI will be rejected, it's artist blacklisted from future submissions and their previous uploads removed (whether or not the uploader is or not will be handled on a case by case basis based on intent).
