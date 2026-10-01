@@ -67,8 +67,8 @@ Couldn't find an asset you like? Here's some websites you can use to find assets
 | [FreeSound](https://freesound.org/) | Audio | Most reliable source for game audio. | Multiple |
 | [itch.io](https://itch.io/game-assets) | Audio | Has a little bit of everything. | Multiple |
 | [OpenGameArt](https://opengameart.org/) | Audio | Same as above. | Multiple |
-| [Listen, copyleft, onward](https://www.listencopyleftonward.com/) | Music | Pasi Sivula's website, has some pretty iconic tracks. | CC-BY-SA 4.0 |
-| [Incompetech](https://incompetech.com/) | Music | Kevin MacLeod's website, likely has pretty much all the royalty free tracks you can think of. | CC-BY 4.0 |
+| [Listen, copyleft, onward](https://www.listencopyleftonward.com/) | Music | Pasi Sivula's website, has some pretty iconic tracks. | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) |
+| [Incompetech](https://incompetech.com/) | Music | Kevin MacLeod's website, likely has pretty much all the royalty free tracks you can think of. | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) |
 | [GameAudioGDC](https://sonniss.com/gameaudiogdc/) | Sound Effects | Sonniss's collection of royalty-free sfx for GDC. | [#GameAudioGDC Bundle License](https://sonniss.com/gdc-bundle-license/) |
 
 # Images
