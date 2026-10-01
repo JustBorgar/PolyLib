@@ -2,7 +2,7 @@
 Collection of royalty free pre-uploaded assets for Polytoria.
 
 > [!Tip]
-> Don't wanna scroll through the entire list? Use your browser's search function (usually `Ctrl+F`) to quickly filter by artist/genre.
+> Don't wanna scroll through the entire list? Use your browser's search function (usually `Ctrl+F`) to quickly filter your results.
 
 # Why?
 
